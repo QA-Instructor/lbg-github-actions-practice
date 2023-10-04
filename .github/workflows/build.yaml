@@ -1,4 +1,4 @@
-name: run automated tests
+name: Java Apps - Run Tests and Package
 on:
   push:
     branches: ["main"]
